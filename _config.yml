@@ -85,5 +85,5 @@ deploy:
 
 admin:
   username: monsun
-  password_hash: 0C04E65BC05168796C989A1AE0F947A6
-  secret: a secret name
+  password_hash: $2a$10$/Va5MO9Ai899y.vrvharqelevxezrH4cjs/8v7AWhrM1nM3kZq48S
+  secret: my super secret name
