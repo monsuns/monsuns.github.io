@@ -82,3 +82,8 @@ deploy:
   type: git
   repo: git@github.com:monsuns/monsuns.github.io.git
   branch: master
+
+admin:
+  username: monsun
+  password_hash: 0C04E65BC05168796C989A1AE0F947A6
+  secret: a secret name
