@@ -1,5 +1,14 @@
 title: first Blog
-date: 2018-06-23 22:37:11
 tags:
+  - test
+categories:
+  - testC
+author: Simon
+date: 2018-06-23 10:37:00
 ---
 test
+
+
+test for everything
+
+[link](/test-page)
